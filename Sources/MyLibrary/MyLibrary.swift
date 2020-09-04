@@ -10,3 +10,8 @@ public class SerialMachine {
         counter = 0;
     }
 }
+
+public var f = 1
+
+private var g = 1
+
